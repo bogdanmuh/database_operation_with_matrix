@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Communication/Communication.iml" filepath="$PROJECT_DIR$/Communication/Communication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DbHelper/DbHelper.iml" filepath="$PROJECT_DIR$/DbHelper/DbHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database_operation_with_matrix.iml" filepath="$PROJECT_DIR$/database_operation_with_matrix.iml" />
+    </modules>
+  </component>
+</project>
